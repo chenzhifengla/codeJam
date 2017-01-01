@@ -18,5 +18,23 @@
     <ClCompile Include="Qualification Round Africa 2010A.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Qualification Round Africa 2010B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Qualification Round Africa 2010C.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Round E APAC Test 2017A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Round E APAC Test 2017B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Round E APAC Test 2017C.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Round E APAC Test 2017D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
